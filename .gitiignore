@@ -1,9 +1,11 @@
-# === CLIENT IGNORE ===
+
 
 # dependencies
 client/node_modules
 client/.pnp
 client/.pnp.js
+client/package-lock.json
+client/package.json
 
 # testing
 client/coverage
@@ -40,6 +42,8 @@ server/.env.production.local
 server/npm-debug.log*
 server/yarn-debug.log*
 server/yarn-error.log*
+server/package-lock.json
+server/package.json
 
 ---
 

@@ -5,53 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a13d25d-d973-4ad3-ae9f-2cb9738f7c9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitiignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/ProtectedRoute.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/Register.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/Stripe.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/cart/CartSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layouts/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layouts/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/layouts/PageLoader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductFilters.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/product/ProductGallery.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/ui/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/ui/EmptyState.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/ui/Input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/ui/Rating.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/AboutPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/AccountPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/CartPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Checkout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/DashboardPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/NotFoundPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/ProductDetailPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Products.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/SellPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/TeamMemberCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/redux/slices/authSlice.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/redux/slices/cartSlice.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/redux/store.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/authService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitiignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitiignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ecommerce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +34,24 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="30m7nUL7HZEiubfh3oHtFs6D3sK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ecommerce/client/src/services&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ecommerce&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -97,6 +61,71 @@
       <recent name="D:\ecommerce\client\src\services" />
       <recent name="D:\ecommerce\client" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ecommerce" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ecommerce" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ecommerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="ecommerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="ecommerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -120,7 +149,13 @@
       <workItem from="1754237236107" duration="14467000" />
       <workItem from="1754331051967" duration="2312000" />
       <workItem from="1754396025873" duration="318000" />
-      <workItem from="1754398713690" duration="692000" />
+      <workItem from="1754398713690" duration="1615000" />
+      <workItem from="1754400368026" duration="459000" />
+      <workItem from="1754400842646" duration="46000" />
+      <workItem from="1754400934146" duration="104000" />
+      <workItem from="1754401050312" duration="81000" />
+      <workItem from="1754401158726" duration="69000" />
+      <workItem from="1754401238334" duration="24000" />
     </task>
     <servers />
   </component>
@@ -129,5 +164,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
   </component>
 </project>
